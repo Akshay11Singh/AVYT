@@ -1,0 +1,11 @@
+Url:
+
+http://avyt-env.42ni2nmf49.ap-south-1.elasticbeanstalk.com/Ram_Cloud_Scan?md5=33ed6db3881b19be67edd3195f1aa155dsa
+
+
+db endpoint:-
+port ::3306
+username: root
+password:root1234
+hostname:ramantivirus.ceg4ynvpby0z.ap-south-1.rds.amazonaws.com
+dbname:ramantivirus
