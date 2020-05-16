@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.autoconfigure.domain.EntityScan;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
-
+/***Code Done for Yeppie Technologies...***/
 @SpringBootApplication
 @ComponentScan(value = "com.akshay.av.*")
 @EnableJpaRepositories(value = "com.akshay.av.repository")
