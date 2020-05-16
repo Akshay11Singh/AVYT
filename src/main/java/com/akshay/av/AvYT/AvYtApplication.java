@@ -20,20 +20,3 @@ public class AvYtApplication {
 
 }
 
-/*
- * @Component
- * 
- * @ConfigurationProperties
- * 
- * @Validated class GlobalProperties {
- * 
- * @Value(spring.jpa.properties.hibernate.jdbc.batch_size) private int
- * batchSize;
- * 
- * public int getThreadPool() { return threadPool; }
- * 
- * public void setThreadPool(int threadPool) { this.threadPool = threadPool; }
- * 
- * //getters and setters }
- * 
- */
